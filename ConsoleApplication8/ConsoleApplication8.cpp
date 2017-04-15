@@ -2,14 +2,24 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
 
+
+struct basic
+{
+	int x = 3; 
+
+	basic *next;
+};
 
 int main()
 {
-
+	std::cout << "Hey";
 	int x = 1; 
 
 	x = 7; 
+
+
 
 
     return 0;
