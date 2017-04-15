@@ -6,7 +6,12 @@
 
 int main()
 {
-    int x = 3;
+
+	int x = 1; 
+
+	x = 7; 
+
+
     return 0;
 }
 
