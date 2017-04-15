@@ -25,7 +25,7 @@ struct nex {
 };
   
 
-#define weirec 7  
+#define weirec 73
 
 
 class Graphite {
