@@ -25,6 +25,8 @@ struct nex {
 };
 
 
+#define weire 7 
+
 class Graphite {
 
 	Graphite(int x)
