@@ -12,6 +12,26 @@ struct basic
 	basic *next;
 };
 
+struct node {
+
+	int dest; 
+	node *next;
+
+};
+
+struct nex {
+
+	node *head;
+};
+
+
+class Graphite {
+
+	Graphite(int x)
+	{}
+};
+
+
 int main()
 {
 	std::cout << "Hey";
