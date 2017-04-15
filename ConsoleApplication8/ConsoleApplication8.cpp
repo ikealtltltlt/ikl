@@ -23,7 +23,7 @@ struct nex {
 
 	node *head;
 };
-
+  
 
 #define weirec 7  
 
