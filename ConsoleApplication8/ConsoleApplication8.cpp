@@ -1,6 +1,6 @@
 // ConsoleApplication8.cpp : Defines the entry point for the console application.
 //
-
+#define ALPHA 1
 #include "stdafx.h"
 #include <iostream>
 
